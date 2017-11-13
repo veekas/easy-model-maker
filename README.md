@@ -1,6 +1,6 @@
 # Easy Model Maker
 
-This repo is just an abstraction of the [sequelize-auto](https://github.com/sequelize/sequelize-auto) library. Currently sequelize-auto breaks with with the latest version of pg, so I made this as a stopgap measure while they update the package. Easy Model Maker is a separate repo so you don't have to clutter up actual projects with out-of-date packages.
+This repo is just an abstraction of the [sequelize-auto](https://github.com/sequelize/sequelize-auto) package. Currently sequelize-auto breaks with with the latest version of pg, so I made this as a stopgap measure while they update the package. Easy Model Maker is a separate repo so you don't have to clutter up actual projects with out-of-date packages.
 
 You can read more about sequelize-auto and how to customize it beyond what I've laid out [here](https://github.com/sequelize/sequelize-auto).
 
